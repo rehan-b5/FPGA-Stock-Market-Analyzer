@@ -56,8 +56,9 @@ The system integrates **real-time rendering, user interaction via PS2 keyboard/m
 
 🎥 **Video Walkthrough:** [Google Drive Link](https://drive.google.com/file/d/17qfD2idL0ijc8XOCcW2xP4rC3k5U3Mgw/view?usp=sharing)  
 
-📸 ![Statistical Features](./assets/s1.png)
-   ![Statistical Features](./assets/s2.png)  
+📸 **Statistical Features**
+![Statistical Features](./assets/s1.png)
+![Statistical Features](./assets/s2.png)  
 
 ---
 
