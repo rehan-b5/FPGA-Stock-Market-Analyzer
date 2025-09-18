@@ -7,7 +7,7 @@ The system integrates **real-time rendering, user interaction via PS2 keyboard/m
 
 ## 🎯 Overview  
 - **Timeline:** Jan 2025 – Apr 2025  
-- **Tech Stack:** DE1-SoC, **FPGA**, **C**, **Assembly**, **VGA**, **PS2 I/O**, Git  
+- **Tech Stack:** **DE1-SoC**, **FPGA**, **C**, **Assembly**, **VGA**, **PS2 I/O**, **Git** 
 - **Impact:** Delivered a responsive stock analysis system with seamless rendering and advanced user interactivity.  
 
 ![Main](./assets/s3.png)
