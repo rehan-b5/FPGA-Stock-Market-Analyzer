@@ -1,4 +1,13 @@
-# 📈 FPGA Stock Market Analyzer  
+# 📈 FPGA Stock Market Analyzer
+
+[![Tech: DE1-SoC](https://img.shields.io/badge/Hardware-DE1--SoC-blue)](#)  
+[![Tech: FPGA](https://img.shields.io/badge/Hardware-FPGA-darkblue)](#)  
+[![Tech: C](https://img.shields.io/badge/Language-C-green)](#)  
+[![Tech: Assembly](https://img.shields.io/badge/Language-Assembly-lightgrey)](#)  
+[![Tech: VGA](https://img.shields.io/badge/Display-VGA-purple)](#)  
+[![Tech: PS2](https://img.shields.io/badge/Input-PS2-orange)](#)  
+[![Tech: TTS](https://img.shields.io/badge/Feature-Text--to--Speech-red)](#)  
+[![Tech: Git](https://img.shields.io/badge/Tool-Git-black)](#) 
 
 An **FPGA-based stock market dashboard** built on the **DE1-SoC board** to visualize and analyze 10 years of FAANG stock data.  
 The system integrates **real-time rendering, user interaction via PS2 keyboard/mouse, dynamic scaling, and text-to-speech output**, providing a fully interactive financial analytics platform on custom hardware.  
